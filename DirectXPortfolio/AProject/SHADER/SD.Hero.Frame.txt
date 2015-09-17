@@ -1,0 +1,7 @@
+1~10	: Stance.		0
+12~24	: Move.			1	
+25~48	: Vertical Cut.		10
+51~78	: Horizon Cut1.		100
+81~104	: Horizon Cut2.		1000
+111~165	: Jump Cut.		10000
+171~220	: Die.			100000

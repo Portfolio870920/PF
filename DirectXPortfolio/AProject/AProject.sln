@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AProject", "AProject.vcproj", "{7C015211-FE98-4E51-B5D2-C86C07759313}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5A05BE4C-3503-47FB-9719-320B6C139F13} = {5A05BE4C-3503-47FB-9719-320B6C139F13}
+		{883E96B9-8C14-4D1A-85D8-BFD8EF212E49} = {883E96B9-8C14-4D1A-85D8-BFD8EF212E49}
+		{7C4447D4-2699-4A4F-9ABF-E3B209377AE3} = {7C4447D4-2699-4A4F-9ABF-E3B209377AE3}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "D3DWRAPPER", "..\D3DWRAPPER\D3DWRAPPER.vcproj", "{5A05BE4C-3503-47FB-9719-320B6C139F13}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MeshLoader", "..\MeshLoader\MeshLoader.vcproj", "{883E96B9-8C14-4D1A-85D8-BFD8EF212E49}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SkinLoader", "..\SkinLoader\SkinLoader.vcproj", "{7C4447D4-2699-4A4F-9ABF-E3B209377AE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C015211-FE98-4E51-B5D2-C86C07759313}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7C015211-FE98-4E51-B5D2-C86C07759313}.Debug|Win32.Build.0 = Debug|Win32
+		{7C015211-FE98-4E51-B5D2-C86C07759313}.Release|Win32.ActiveCfg = Release|Win32
+		{7C015211-FE98-4E51-B5D2-C86C07759313}.Release|Win32.Build.0 = Release|Win32
+		{5A05BE4C-3503-47FB-9719-320B6C139F13}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5A05BE4C-3503-47FB-9719-320B6C139F13}.Debug|Win32.Build.0 = Debug|Win32
+		{5A05BE4C-3503-47FB-9719-320B6C139F13}.Release|Win32.ActiveCfg = Release|Win32
+		{5A05BE4C-3503-47FB-9719-320B6C139F13}.Release|Win32.Build.0 = Release|Win32
+		{883E96B9-8C14-4D1A-85D8-BFD8EF212E49}.Debug|Win32.ActiveCfg = Debug|Win32
+		{883E96B9-8C14-4D1A-85D8-BFD8EF212E49}.Debug|Win32.Build.0 = Debug|Win32
+		{883E96B9-8C14-4D1A-85D8-BFD8EF212E49}.Release|Win32.ActiveCfg = Release|Win32
+		{883E96B9-8C14-4D1A-85D8-BFD8EF212E49}.Release|Win32.Build.0 = Release|Win32
+		{7C4447D4-2699-4A4F-9ABF-E3B209377AE3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7C4447D4-2699-4A4F-9ABF-E3B209377AE3}.Debug|Win32.Build.0 = Debug|Win32
+		{7C4447D4-2699-4A4F-9ABF-E3B209377AE3}.Release|Win32.ActiveCfg = Release|Win32
+		{7C4447D4-2699-4A4F-9ABF-E3B209377AE3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

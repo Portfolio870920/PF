@@ -1,0 +1,5 @@
+1~8	: Stance.
+10~22	: Move.
+25~44	: Vertical Cut.
+50~99	: Die.
+100~120	: Vertical Cut2.
