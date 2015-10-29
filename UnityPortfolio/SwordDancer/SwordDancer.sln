@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwordDancer.CSharp.Plugins", "SwordDancer.CSharp.Plugins.csproj", "{BD1CD6B8-452E-6F28-8A5C-A491651050AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwordDancer.CSharp", "SwordDancer.CSharp.csproj", "{D3927DD2-4201-BDEC-B2A8-ED56CD8C0F8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwordDancer.CSharp.Editor", "SwordDancer.CSharp.Editor.csproj", "{5087E506-DC08-56BF-8321-EFE086168258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD1CD6B8-452E-6F28-8A5C-A491651050AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1CD6B8-452E-6F28-8A5C-A491651050AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1CD6B8-452E-6F28-8A5C-A491651050AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1CD6B8-452E-6F28-8A5C-A491651050AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3927DD2-4201-BDEC-B2A8-ED56CD8C0F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3927DD2-4201-BDEC-B2A8-ED56CD8C0F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3927DD2-4201-BDEC-B2A8-ED56CD8C0F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3927DD2-4201-BDEC-B2A8-ED56CD8C0F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5087E506-DC08-56BF-8321-EFE086168258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5087E506-DC08-56BF-8321-EFE086168258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5087E506-DC08-56BF-8321-EFE086168258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5087E506-DC08-56BF-8321-EFE086168258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
